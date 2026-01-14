@@ -1,0 +1,24 @@
+# 📝 Notes App
+
+A simple **Notes Application** to **create, edit, and delete notes**.  
+It helps users organize their thoughts, tasks, and reminders efficiently.  
+Built using **HTML, CSS, and JavaScript**, with a **clean and responsive UI**.
+
+---
+
+## 🚀 Features
+- Add new notes  
+- Edit existing notes  
+- Delete notes  
+- Responsive layout for mobile and desktop  
+- Notes are saved in **browser Local Storage**  
+
+---
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+- Local Storage  
+
+---
